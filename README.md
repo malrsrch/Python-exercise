@@ -10,4 +10,7 @@ Have Fun！
 
 ###Tips：
 ----------------
-- this is a test
+- SaveBitmapFile.py
+> 运行该脚本，可以对屏幕进行全屏捕获，并将捕获到的图片保存在脚本所在目录。
+
+- test
